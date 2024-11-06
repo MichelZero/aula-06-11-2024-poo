@@ -1,5 +1,5 @@
 #
-# Author: Michel
+# Autor: Michel
 # data: 2024/11/06
 
 from contato import ContatoPessoa as C
@@ -21,4 +21,5 @@ class Agenda:
     
 # instancia
 a1 = Agenda()
-a1.add("michel","email", "das casas", "CZ")
+a1.add("Michel","email@gmail.com", "das casas", "CZ")
+a1.add("Roberto","email@gmail.com", "do bairro", "JP")

@@ -1,5 +1,5 @@
 #
-# Author: Michel
+# Autor: Michel
 # data: 2024/11/06
 
 from pessoa import Pessoa
